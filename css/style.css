@@ -197,11 +197,11 @@ h5{
     margin-bottom: 10px;
 }
 .beta1-btn:hover {
-    color: #f0f0f0;
+    color: #000000;
 }
 
 .beta1-btn:active, .beta-btn:focus {
-    color: #ffffff;
+    color: #000000;
 }
 
 .service{
