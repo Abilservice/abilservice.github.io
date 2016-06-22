@@ -58,7 +58,7 @@
             min-height: 100vh;
     }
     .beta1-btn{
-            margin-left: 160px;
+            margin-left: 180px;
             margin-top: 50px;
     }
     .solicita-btn{
@@ -206,7 +206,7 @@ h5{
     border: solid 4px transparent;
     border-radius: 40px;
     background: #ffffff;
-    max-width: 330px;
+    max-width: 350px;
     line-height: 40px;
     color: #000000;
     font-size: 35px;
