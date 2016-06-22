@@ -62,7 +62,7 @@
             margin-top: 50px;
     }
     .solicita-btn{
-            margin-left: 180px;
+            margin-left: 130px;
             margin-top: 50px;
     }
     h5{
@@ -204,7 +204,7 @@ h5{
 }
 .solicita-btn{
     border: solid 4px transparent;
-    border-radius: 60px;
+    border-radius: 40px;
     background: #ffffff;
     max-width: 300px;
     line-height: 40px;
