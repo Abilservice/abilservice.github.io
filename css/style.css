@@ -31,7 +31,7 @@
             margin-left: 45px;
 	}
 	.solicita-btn{
-            margin-left: 60px;
+            margin-left: 90px;
 	}
     h5{
         font-size: 10px;
@@ -58,6 +58,10 @@
             min-height: 100vh;
     }
     .beta1-btn{
+            margin-left: 130px;
+            margin-top: 50px;
+    }
+    .solicita-btn{
             margin-left: 130px;
             margin-top: 50px;
     }
@@ -198,11 +202,31 @@ h5{
     font-color: #232b3a;
     margin-bottom: 10px;
 }
+.solicita-btn{
+    border: solid 4px transparent;
+    border-radius: 40px;
+    background: #ffffff;
+    max-width: 250px;
+    line-height: 40px;
+    color: #000000;
+    font-size: 35px;
+    font-family: "Dosis-Bold";
+    align-content: center;
+    font-color: #232b3a;
+    margin-bottom: 10px;
+}
 .beta1-btn:hover {
     color: #222222;
 }
+.solicita-btn:hover {
+    color: #222222;
+}
+
 
 .beta1-btn:active, .beta-btn:focus {
+    color: #000000;
+}
+.solicita-btn:active, .beta-btn:focus {
     color: #000000;
 }
 
